@@ -1,3 +1,9 @@
+#
+# I *think* I found this algorithm here: https://gist.github.com/jdmoore7/de13d106b9bb92fe111ba14224341045
+# I've modified it a bit, but it's mostly the same.
+#
+
+
 import sys
 from datetime import datetime
 import random
